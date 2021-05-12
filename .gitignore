@@ -5,6 +5,7 @@ _DS_Store
 
 # Folders
 output/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
