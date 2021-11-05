@@ -1,1 +1,1 @@
-# demand-system-asset-pricing
+# Asset Pricing with Industry Organizations
